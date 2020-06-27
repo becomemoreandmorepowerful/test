@@ -1,1 +1,2 @@
 the code2 first line
+this is first line in code2.txt
