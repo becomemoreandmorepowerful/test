@@ -2,6 +2,3 @@ this is first line
 this is second line
 this is third line
 this is forth line
-this is new line in master
-this is new line in dev
-this is fifth line
