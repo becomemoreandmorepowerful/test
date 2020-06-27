@@ -3,3 +3,4 @@ this is second line
 this is third line
 this is forth line
 fix bug  before stash
+that is fifth line
